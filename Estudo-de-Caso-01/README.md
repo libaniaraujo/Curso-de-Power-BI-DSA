@@ -33,8 +33,9 @@ automóveis deste fabricante por ano e por estado.
   * Como é feita a importação dos dados.
   * A necessidade de alterar a configuração regional para se adequar ao formato dos dados.
   * Como transformar alguns tipos específicos de dados, em especial mudar dados numéricos para o formato textual.
-  * Como formatar título e legenda de um gráfico/tabela.
+  * Como formatar título e legenda de um gráfico.
   * Que deve-se evitar representar informações distintas em um dashboard com gráficos do mesmo tipo.
+  * Como inserir título em um dashboard.
 
 <div align="center">
 <img src = https://user-images.githubusercontent.com/94937578/154568491-621b16b4-0f88-4972-88fb-513657a171d2.PNG />
