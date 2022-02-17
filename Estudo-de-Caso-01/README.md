@@ -25,7 +25,7 @@ automóveis deste fabricante por ano e por estado.
 #### Com base nos dados disponibilizados e nas informações solicitadas foi criado o dashboard abaixo.
 - Os principais pontos aprendidos na construção desse dashboard foram:
   * Como é feita a importação dos dados.
-  * A necessidade de alteração da configuração regional para se adequar ao formato dos dados.
+  * A necessidade de alterar a configuração regional para se adequar ao formato dos dados.
   * Como transformar alguns tipos específicos de dados, em especial mudar dados numéricos para o formato textual.
   * Como formatar título e legenda de um gráfico/tabela.
   * Que deve-se evitar representar informações distintas em um dashboard com gráficos do mesmo tipo.
