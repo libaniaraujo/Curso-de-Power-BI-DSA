@@ -6,10 +6,12 @@ Seu gerente vai apresentar os resultados da equipe comercial para o novo CEO da 
 no período de 2016 a 2019.
 Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e CRM  da empresa, com a as seguintes colunas:
 
+<div align="center">
 ![tabela](https://user-images.githubusercontent.com/94937578/154561578-9e0eb6f4-2778-451e-88e5-a2109ab21801.PNG)
+<div/>
 
-
+<div align="center">
 ![Dashboard01](https://user-images.githubusercontent.com/94937578/154561623-18f15607-21e7-4bb5-9269-e442b4d108e5.PNG)
-
+<div/>
 
 
