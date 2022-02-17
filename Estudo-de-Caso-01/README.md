@@ -5,11 +5,11 @@ Você é Analista de Dados na empresa XYZ Corporation International, uma revende
 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
 Seu gerente vai apresentar os resultados da equipe comercial para o novo CEO da  empresa e precisa da sua ajuda para construir um Dashboard que represente os dados de vendas 
 no período de 2016 a 2019.Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e CRM  da empresa, com a as seguintes colunas:
-<p/>
+</p>
 
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/94937578/154561578-9e0eb6f4-2778-451e-88e5-a2109ab21801.PNG" width="600px" />
-<div/>
+</div>
 
 <p style='text-align: right;'>
 Seu gerente precisa das seguintes informações:
@@ -17,7 +17,7 @@ Seu gerente precisa das seguintes informações:
 2- Custo de Entrega do Veículo Por Fabricante
 3- Custo de Mão de Obra Por Estado
 4- Total de Vendas Geral e Matriz de Vendas
-  </p>
+</p>
   
 <p style='text-align: justify'>
 Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas por estado  e se as vendas estão acima ou abaixo da média. Seu gerente já sabe que um assunto será 
@@ -30,6 +30,6 @@ Seu trabalho é fazer isso acontecer!
 
 <div align="center">
 <img src = https://user-images.githubusercontent.com/94937578/154561623-18f15607-21e7-4bb5-9269-e442b4d108e5.PNG />
-<div/>
+</div>
 
 
