@@ -21,6 +21,7 @@ automóveis deste fabricante por ano e por estado.
 
 #### Seu trabalho é fazer isso acontecer!
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Com base nos dados disponibilizados e nas informações solicitadas foi criado o dashboard abaixo.
 - Os principais pontos aprendidos na construção desse dashboard foram:
