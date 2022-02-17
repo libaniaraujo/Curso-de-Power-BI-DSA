@@ -10,7 +10,7 @@
 
 A seguir são citados cada um dos dashboards construídos e o link para a pasta na qual eles são apresentados:
 
-##### 1. Estudo de Caso 01 - Dashboard de Vendas: https://github.com/libaniaraujo/Curso-de-Power-BI-DSA/tree/main/Estudo-de-Caso-01
+#### 1. Estudo de Caso 01 - Dashboard de Vendas: https://github.com/libaniaraujo/Curso-de-Power-BI-DSA/tree/main/Estudo-de-Caso-01
 
 
 
