@@ -27,7 +27,11 @@ automóveis deste fabricante por ano e por estado.
 
 ## Construindo o dashboard e tirando insights
 
-### Com base nos dados disponibilizados e nas informações solicitadas foi criado o dashboard abaixo.
+### Com base nos dados disponibilizados e nas informações solicitadas foi criado o dashboard abaixo:
+
+<div align="center">
+<img src = https://user-images.githubusercontent.com/94937578/154568491-621b16b4-0f88-4972-88fb-513657a171d2.PNG />
+</div>
 
 #### - Os principais pontos aprendidos na construção desse dashboard foram:
   * Como é feita a importação dos dados.
@@ -36,10 +40,6 @@ automóveis deste fabricante por ano e por estado.
   * Como formatar título e legenda de um gráfico.
   * Que deve-se evitar representar informações distintas em um dashboard com gráficos do mesmo tipo.
   * Como inserir título em um dashboard.
-
-<div align="center">
-<img src = https://user-images.githubusercontent.com/94937578/154568491-621b16b4-0f88-4972-88fb-513657a171d2.PNG />
-</div>
 
 #### - Insights:
 
